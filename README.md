@@ -10,4 +10,4 @@ This is what my page looks like when window width > 780px: <img width="1032" alt
 
 This is what it looks like after the first break point (at maxwidth=780px): <img width="745" alt="static-com-1-first-breakpoint" src="https://cloud.githubusercontent.com/assets/25699277/26369978/934a5d2a-3fb3-11e7-8643-2abe6154132a.png">
 
-And this is what it looks like after the second break point (at maxwidth=400px): <figure><img width="396" alt="static-com-1-second-breakpoint" src="https://cloud.githubusercontent.com/assets/25699277/26370078/f32a76a8-3fb3-11e7-8332-a9cbf5cbef52.png"><figcaption>You can scroll down</figcaption></figure>
+And this is what it looks like after the second break point (at maxwidth=400px): <img width="396" alt="static-com-1-second-breakpoint" src="https://cloud.githubusercontent.com/assets/25699277/26370078/f32a76a8-3fb3-11e7-8332-a9cbf5cbef52.png">
